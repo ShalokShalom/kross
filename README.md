@@ -2,6 +2,7 @@
 
 Embedding of scripting into applications
 
+
 ## Introduction
 
 Kross is a scripting bridge to embed scripting functionality
@@ -59,7 +60,8 @@ to run by Kross supported scripts from within the command line:
 
 ## Backends
 
-Currently, the only backend is a JavaScript backend powered by the QtScript
+Currently, the only backend in Kross itself is a JavaScript backend, powered by the QtScript
 library (which is part of Qt).
 
+You find interpreters for Python, Falcon, Ruby and Java here: https://github.com/KDE/kross-interpreters
 
